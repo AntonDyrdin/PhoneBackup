@@ -1,0 +1,476 @@
+Copying //device//лекции Манькова//2 Лекция 7 Мех.передвижения.docx...
+Copying //device//лекции Манькова//Лекция 1  по дисциплине ПТМ роботы.docx...
+Copying //device//лекции Манькова//Лекция 3 по дисциплине ПТМ роботы.docx...
+Copying //device//Android//data//air.com.gamebrain.hocus...
+Can't copy: 
+//device//Android//data//air.com.gamebrain.hocus to
+C:\tryToDownloadFTP\device\Android\data\air.com.gamebrain.hocus
+Copying //device//Android//data//com.adobe.reader...
+Can't copy: 
+//device//Android//data//com.adobe.reader to
+C:\tryToDownloadFTP\device\Android\data\com.adobe.reader
+Copying //device//Android//data//com.alphainventor.filemanager...
+Can't copy: 
+//device//Android//data//com.alphainventor.filemanager to
+C:\tryToDownloadFTP\device\Android\data\com.alphainventor.filemanager
+Copying //device//Android//data//com.android.browser...
+Can't copy: 
+//device//Android//data//com.android.browser to
+C:\tryToDownloadFTP\device\Android\data\com.android.browser
+Copying //device//Android//data//com.android.calendar...
+Can't copy: 
+//device//Android//data//com.android.calendar to
+C:\tryToDownloadFTP\device\Android\data\com.android.calendar
+Copying //device//Android//data//com.android.chrome...
+Can't copy: 
+//device//Android//data//com.android.chrome to
+C:\tryToDownloadFTP\device\Android\data\com.android.chrome
+Copying //device//Android//data//com.android.providers.downloads...
+Can't copy: 
+//device//Android//data//com.android.providers.downloads to
+C:\tryToDownloadFTP\device\Android\data\com.android.providers.downloads
+Copying //device//Android//data//com.android.providers.downloads.ui...
+Can't copy: 
+//device//Android//data//com.android.providers.downloads.ui to
+C:\tryToDownloadFTP\device\Android\data\com.android.providers.downloads.ui
+Copying //device//Android//data//com.android.providers.media...
+Can't copy: 
+//device//Android//data//com.android.providers.media to
+C:\tryToDownloadFTP\device\Android\data\com.android.providers.media
+Copying //device//Android//data//com.android.providers.telephony...
+Can't copy: 
+//device//Android//data//com.android.providers.telephony to
+C:\tryToDownloadFTP\device\Android\data\com.android.providers.telephony
+Copying //device//Android//data//com.android.soundrecorder...
+Can't copy: 
+//device//Android//data//com.android.soundrecorder to
+C:\tryToDownloadFTP\device\Android\data\com.android.soundrecorder
+Copying //device//Android//data//com.android.systemui...
+Can't copy: 
+//device//Android//data//com.android.systemui to
+C:\tryToDownloadFTP\device\Android\data\com.android.systemui
+Copying //device//Android//data//com.android.thememanager...
+Can't copy: 
+//device//Android//data//com.android.thememanager to
+C:\tryToDownloadFTP\device\Android\data\com.android.thememanager
+Copying //device//Android//data//com.android.vending...
+Can't copy: 
+//device//Android//data//com.android.vending to
+C:\tryToDownloadFTP\device\Android\data\com.android.vending
+Copying //device//Android//data//com.byril.dots...
+Can't copy: 
+//device//Android//data//com.byril.dots to
+C:\tryToDownloadFTP\device\Android\data\com.byril.dots
+Copying //device//Android//data//com.caddish_hedgehog.hedgecam2...
+Can't copy: 
+//device//Android//data//com.caddish_hedgehog.hedgecam2 to
+C:\tryToDownloadFTP\device\Android\data\com.caddish_hedgehog.hedgecam2
+Copying //device//Android//data//com.drweb...
+Can't copy: 
+//device//Android//data//com.drweb to
+C:\tryToDownloadFTP\device\Android\data\com.drweb
+Copying //device//Android//data//com.duokan.phone.remotecontroller...
+Can't copy: 
+//device//Android//data//com.duokan.phone.remotecontroller to
+C:\tryToDownloadFTP\device\Android\data\com.duokan.phone.remotecontroller
+Copying //device//Android//data//com.duolingo...
+Can't copy: 
+//device//Android//data//com.duolingo to
+C:\tryToDownloadFTP\device\Android\data\com.duolingo
+Copying //device//Android//data//com.duy.pascal.compiler...
+Can't copy: 
+//device//Android//data//com.duy.pascal.compiler to
+C:\tryToDownloadFTP\device\Android\data\com.duy.pascal.compiler
+Copying //device//Android//data//com.facebook.appmanager...
+Can't copy: 
+//device//Android//data//com.facebook.appmanager to
+C:\tryToDownloadFTP\device\Android\data\com.facebook.appmanager
+Copying //device//Android//data//com.fido.asm...
+Can't copy: 
+//device//Android//data//com.fido.asm to
+C:\tryToDownloadFTP\device\Android\data\com.fido.asm
+Copying //device//Android//data//com.finalwire.aida64...
+Can't copy: 
+//device//Android//data//com.finalwire.aida64 to
+C:\tryToDownloadFTP\device\Android\data\com.finalwire.aida64
+Copying //device//Android//data//com.google.android.apps.docs...
+Can't copy: 
+//device//Android//data//com.google.android.apps.docs to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.apps.docs
+Copying //device//Android//data//com.google.android.apps.docs.editors.docs...
+Can't copy: 
+//device//Android//data//com.google.android.apps.docs.editors.docs to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.apps.docs.editors.docs
+Copying //device//Android//data//com.google.android.apps.fitness...
+Can't copy: 
+//device//Android//data//com.google.android.apps.fitness to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.apps.fitness
+Copying //device//Android//data//com.google.android.apps.maps...
+Can't copy: 
+//device//Android//data//com.google.android.apps.maps to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.apps.maps
+Copying //device//Android//data//com.google.android.apps.photos...
+Can't copy: 
+//device//Android//data//com.google.android.apps.photos to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.apps.photos
+Copying //device//Android//data//com.google.android.gm...
+Can't copy: 
+//device//Android//data//com.google.android.gm to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.gm
+Copying //device//Android//data//com.google.android.gms...
+Can't copy: 
+//device//Android//data//com.google.android.gms to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.gms
+Copying //device//Android//data//com.google.android.googlequicksearchbox...
+Can't copy: 
+//device//Android//data//com.google.android.googlequicksearchbox to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.googlequicksearchbox
+Copying //device//Android//data//com.google.android.music...
+Can't copy: 
+//device//Android//data//com.google.android.music to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.music
+Copying //device//Android//data//com.google.android.videos...
+Can't copy: 
+//device//Android//data//com.google.android.videos to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.videos
+Copying //device//Android//data//com.google.android.youtube...
+Can't copy: 
+//device//Android//data//com.google.android.youtube to
+C:\tryToDownloadFTP\device\Android\data\com.google.android.youtube
+Copying //device//Android//data//com.harman.ble.jbllink...
+Can't copy: 
+//device//Android//data//com.harman.ble.jbllink to
+C:\tryToDownloadFTP\device\Android\data\com.harman.ble.jbllink
+Copying //device//Android//data//com.ilixa.chroma...
+Can't copy: 
+//device//Android//data//com.ilixa.chroma to
+C:\tryToDownloadFTP\device\Android\data\com.ilixa.chroma
+Copying //device//Android//data//com.ilixa.mirror...
+Can't copy: 
+//device//Android//data//com.ilixa.mirror to
+C:\tryToDownloadFTP\device\Android\data\com.ilixa.mirror
+Copying //device//Android//data//com.instagram.android...
+Can't copy: 
+//device//Android//data//com.instagram.android to
+C:\tryToDownloadFTP\device\Android\data\com.instagram.android
+Copying //device//Android//data//com.kodarkooperativet.blackplayerfree...
+Can't copy: 
+//device//Android//data//com.kodarkooperativet.blackplayerfree to
+C:\tryToDownloadFTP\device\Android\data\com.kodarkooperativet.blackplayerfree
+Copying //device//Android//data//com.lbe.security.miui...
+Can't copy: 
+//device//Android//data//com.lbe.security.miui to
+C:\tryToDownloadFTP\device\Android\data\com.lbe.security.miui
+Copying //device//Android//data//com.media.bestrecorder.audiorecorder...
+Can't copy: 
+//device//Android//data//com.media.bestrecorder.audiorecorder to
+C:\tryToDownloadFTP\device\Android\data\com.media.bestrecorder.audiorecorder
+Copying //device//Android//data//com.mi.android.globalFileexplorer...
+Can't copy: 
+//device//Android//data//com.mi.android.globalFileexplorer to
+C:\tryToDownloadFTP\device\Android\data\com.mi.android.globalFileexplorer
+Copying //device//Android//data//com.mi.android.globalpersonalassistant...
+Can't copy: 
+//device//Android//data//com.mi.android.globalpersonalassistant to
+C:\tryToDownloadFTP\device\Android\data\com.mi.android.globalpersonalassistant
+Copying //device//Android//data//com.mi.global.bbs...
+Can't copy: 
+//device//Android//data//com.mi.global.bbs to
+C:\tryToDownloadFTP\device\Android\data\com.mi.global.bbs
+Copying //device//Android//data//com.mi.globallayout...
+Can't copy: 
+//device//Android//data//com.mi.globallayout to
+C:\tryToDownloadFTP\device\Android\data\com.mi.globallayout
+Copying //device//Android//data//com.mi.webkit.core...
+Can't copy: 
+//device//Android//data//com.mi.webkit.core to
+C:\tryToDownloadFTP\device\Android\data\com.mi.webkit.core
+Copying //device//Android//data//com.microblink.photomath...
+Can't copy: 
+//device//Android//data//com.microblink.photomath to
+C:\tryToDownloadFTP\device\Android\data\com.microblink.photomath
+Copying //device//Android//data//com.microsoft.appmanager...
+Can't copy: 
+//device//Android//data//com.microsoft.appmanager to
+C:\tryToDownloadFTP\device\Android\data\com.microsoft.appmanager
+Copying //device//Android//data//com.microsoft.office.powerpoint...
+Can't copy: 
+//device//Android//data//com.microsoft.office.powerpoint to
+C:\tryToDownloadFTP\device\Android\data\com.microsoft.office.powerpoint
+Copying //device//Android//data//com.microsoft.office.word...
+Can't copy: 
+//device//Android//data//com.microsoft.office.word to
+C:\tryToDownloadFTP\device\Android\data\com.microsoft.office.word
+Copying //device//Android//data//com.milink.service...
+Can't copy: 
+//device//Android//data//com.milink.service to
+C:\tryToDownloadFTP\device\Android\data\com.milink.service
+Copying //device//Android//data//com.miui.analytics...
+Can't copy: 
+//device//Android//data//com.miui.analytics to
+C:\tryToDownloadFTP\device\Android\data\com.miui.analytics
+Copying //device//Android//data//com.miui.bugreport...
+Can't copy: 
+//device//Android//data//com.miui.bugreport to
+C:\tryToDownloadFTP\device\Android\data\com.miui.bugreport
+Copying //device//Android//data//com.miui.calculator...
+Can't copy: 
+//device//Android//data//com.miui.calculator to
+C:\tryToDownloadFTP\device\Android\data\com.miui.calculator
+Copying //device//Android//data//com.miui.cleanmaster...
+Can't copy: 
+//device//Android//data//com.miui.cleanmaster to
+C:\tryToDownloadFTP\device\Android\data\com.miui.cleanmaster
+Copying //device//Android//data//com.miui.cloudbackup...
+Can't copy: 
+//device//Android//data//com.miui.cloudbackup to
+C:\tryToDownloadFTP\device\Android\data\com.miui.cloudbackup
+Copying //device//Android//data//com.miui.cloudservice...
+Can't copy: 
+//device//Android//data//com.miui.cloudservice to
+C:\tryToDownloadFTP\device\Android\data\com.miui.cloudservice
+Copying //device//Android//data//com.miui.compass...
+Can't copy: 
+//device//Android//data//com.miui.compass to
+C:\tryToDownloadFTP\device\Android\data\com.miui.compass
+Copying //device//Android//data//com.miui.daemon...
+Can't copy: 
+//device//Android//data//com.miui.daemon to
+C:\tryToDownloadFTP\device\Android\data\com.miui.daemon
+Copying //device//Android//data//com.miui.enbbs...
+Can't copy: 
+//device//Android//data//com.miui.enbbs to
+C:\tryToDownloadFTP\device\Android\data\com.miui.enbbs
+Copying //device//Android//data//com.miui.gallery...
+Can't copy: 
+//device//Android//data//com.miui.gallery to
+C:\tryToDownloadFTP\device\Android\data\com.miui.gallery
+Copying //device//Android//data//com.miui.guardprovider...
+Can't copy: 
+//device//Android//data//com.miui.guardprovider to
+C:\tryToDownloadFTP\device\Android\data\com.miui.guardprovider
+Copying //device//Android//data//com.miui.hybrid...
+Can't copy: 
+//device//Android//data//com.miui.hybrid to
+C:\tryToDownloadFTP\device\Android\data\com.miui.hybrid
+Copying //device//Android//data//com.miui.hybrid.accessory...
+Can't copy: 
+//device//Android//data//com.miui.hybrid.accessory to
+C:\tryToDownloadFTP\device\Android\data\com.miui.hybrid.accessory
+Copying //device//Android//data//com.miui.micloudsync...
+Can't copy: 
+//device//Android//data//com.miui.micloudsync to
+C:\tryToDownloadFTP\device\Android\data\com.miui.micloudsync
+Copying //device//Android//data//com.miui.miwallpaper...
+Can't copy: 
+//device//Android//data//com.miui.miwallpaper to
+C:\tryToDownloadFTP\device\Android\data\com.miui.miwallpaper
+Copying //device//Android//data//com.miui.msa.global...
+Can't copy: 
+//device//Android//data//com.miui.msa.global to
+C:\tryToDownloadFTP\device\Android\data\com.miui.msa.global
+Copying //device//Android//data//com.miui.notes...
+Can't copy: 
+//device//Android//data//com.miui.notes to
+C:\tryToDownloadFTP\device\Android\data\com.miui.notes
+Copying //device//Android//data//com.miui.player...
+Can't copy: 
+//device//Android//data//com.miui.player to
+C:\tryToDownloadFTP\device\Android\data\com.miui.player
+Copying //device//Android//data//com.miui.powerkeeper...
+Can't copy: 
+//device//Android//data//com.miui.powerkeeper to
+C:\tryToDownloadFTP\device\Android\data\com.miui.powerkeeper
+Copying //device//Android//data//com.miui.securityadd...
+Can't copy: 
+//device//Android//data//com.miui.securityadd to
+C:\tryToDownloadFTP\device\Android\data\com.miui.securityadd
+Copying //device//Android//data//com.miui.securitycenter...
+Can't copy: 
+//device//Android//data//com.miui.securitycenter to
+C:\tryToDownloadFTP\device\Android\data\com.miui.securitycenter
+Copying //device//Android//data//com.miui.securitycore...
+Can't copy: 
+//device//Android//data//com.miui.securitycore to
+C:\tryToDownloadFTP\device\Android\data\com.miui.securitycore
+Copying //device//Android//data//com.miui.smsextra...
+Can't copy: 
+//device//Android//data//com.miui.smsextra to
+C:\tryToDownloadFTP\device\Android\data\com.miui.smsextra
+Copying //device//Android//data//com.miui.videoplayer...
+Can't copy: 
+//device//Android//data//com.miui.videoplayer to
+C:\tryToDownloadFTP\device\Android\data\com.miui.videoplayer
+Copying //device//Android//data//com.miui.weather2...
+Can't copy: 
+//device//Android//data//com.miui.weather2 to
+C:\tryToDownloadFTP\device\Android\data\com.miui.weather2
+Copying //device//Android//data//com.miui.yellowpage...
+Can't copy: 
+//device//Android//data//com.miui.yellowpage to
+C:\tryToDownloadFTP\device\Android\data\com.miui.yellowpage
+Copying //device//Android//data//com.netflix.partner.activation...
+Can't copy: 
+//device//Android//data//com.netflix.partner.activation to
+C:\tryToDownloadFTP\device\Android\data\com.netflix.partner.activation
+Copying //device//Android//data//com.qapp.secprotect...
+Can't copy: 
+//device//Android//data//com.qapp.secprotect to
+C:\tryToDownloadFTP\device\Android\data\com.qapp.secprotect
+Copying //device//Android//data//com.qualcomm.embms...
+Can't copy: 
+//device//Android//data//com.qualcomm.embms to
+C:\tryToDownloadFTP\device\Android\data\com.qualcomm.embms
+Copying //device//Android//data//com.qualcomm.qti.accesscache...
+Can't copy: 
+//device//Android//data//com.qualcomm.qti.accesscache to
+C:\tryToDownloadFTP\device\Android\data\com.qualcomm.qti.accesscache
+Copying //device//Android//data//com.qualcomm.qti.haven.telemetry.service...
+Can't copy: 
+//device//Android//data//com.qualcomm.qti.haven.telemetry.service to
+C:\tryToDownloadFTP\device\Android\data\com.qualcomm.qti.haven.telemetry.service
+Copying //device//Android//data//com.qualcomm.qti.qcom_accesslogkit...
+Can't copy: 
+//device//Android//data//com.qualcomm.qti.qcom_accesslogkit to
+C:\tryToDownloadFTP\device\Android\data\com.qualcomm.qti.qcom_accesslogkit
+Copying //device//Android//data//com.qualcomm.qti.StatsPollManager...
+Can't copy: 
+//device//Android//data//com.qualcomm.qti.StatsPollManager to
+C:\tryToDownloadFTP\device\Android\data\com.qualcomm.qti.StatsPollManager
+Copying //device//Android//data//com.qualcomm.timeservice...
+Can't copy: 
+//device//Android//data//com.qualcomm.timeservice to
+C:\tryToDownloadFTP\device\Android\data\com.qualcomm.timeservice
+Copying //device//Android//data//com.sony.songpal...
+Can't copy: 
+//device//Android//data//com.sony.songpal to
+C:\tryToDownloadFTP\device\Android\data\com.sony.songpal
+Copying //device//Android//data//com.soundcloud.android...
+Can't copy: 
+//device//Android//data//com.soundcloud.android to
+C:\tryToDownloadFTP\device\Android\data\com.soundcloud.android
+Copying //device//Android//data//com.teamviewer.teamviewer.market.mobile...
+Can't copy: 
+//device//Android//data//com.teamviewer.teamviewer.market.mobile to
+C:\tryToDownloadFTP\device\Android\data\com.teamviewer.teamviewer.market.mobile
+Copying //device//Android//data//com.viber.voip...
+Can't copy: 
+//device//Android//data//com.viber.voip to
+C:\tryToDownloadFTP\device\Android\data\com.viber.voip
+Copying //device//Android//data//com.vkmp3mod.android...
+Can't copy: 
+//device//Android//data//com.vkmp3mod.android to
+C:\tryToDownloadFTP\device\Android\data\com.vkmp3mod.android
+Copying //device//Android//data//com.vkontakte.android...
+Can't copy: 
+//device//Android//data//com.vkontakte.android to
+C:\tryToDownloadFTP\device\Android\data\com.vkontakte.android
+Copying //device//Android//data//com.whatsapp...
+Can't copy: 
+//device//Android//data//com.whatsapp to
+C:\tryToDownloadFTP\device\Android\data\com.whatsapp
+Copying //device//Android//data//com.xiaomi.account...
+Can't copy: 
+//device//Android//data//com.xiaomi.account to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.account
+Copying //device//Android//data//com.xiaomi.discover...
+Can't copy: 
+//device//Android//data//com.xiaomi.discover to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.discover
+Copying //device//Android//data//com.xiaomi.finddevice...
+Can't copy: 
+//device//Android//data//com.xiaomi.finddevice to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.finddevice
+Copying //device//Android//data//com.xiaomi.joyose...
+Can't copy: 
+//device//Android//data//com.xiaomi.joyose to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.joyose
+Copying //device//Android//data//com.xiaomi.micloud.sdk...
+Can't copy: 
+//device//Android//data//com.xiaomi.micloud.sdk to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.micloud.sdk
+Copying //device//Android//data//com.xiaomi.midrop...
+Can't copy: 
+//device//Android//data//com.xiaomi.midrop to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.midrop
+Copying //device//Android//data//com.xiaomi.mipicks...
+Can't copy: 
+//device//Android//data//com.xiaomi.mipicks to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.mipicks
+Copying //device//Android//data//com.xiaomi.mirecycle...
+Can't copy: 
+//device//Android//data//com.xiaomi.mirecycle to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.mirecycle
+Copying //device//Android//data//com.xiaomi.providers.appindex...
+Can't copy: 
+//device//Android//data//com.xiaomi.providers.appindex to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.providers.appindex
+Copying //device//Android//data//com.xiaomi.scanner...
+Can't copy: 
+//device//Android//data//com.xiaomi.scanner to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.scanner
+Copying //device//Android//data//com.xiaomi.simactivate.service...
+Can't copy: 
+//device//Android//data//com.xiaomi.simactivate.service to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.simactivate.service
+Copying //device//Android//data//com.xiaomi.upnp...
+Can't copy: 
+//device//Android//data//com.xiaomi.upnp to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.upnp
+Copying //device//Android//data//com.xiaomi.xmsf...
+Can't copy: 
+//device//Android//data//com.xiaomi.xmsf to
+C:\tryToDownloadFTP\device\Android\data\com.xiaomi.xmsf
+Copying //device//Android//data//net.sourceforge.opencamera...
+Can't copy: 
+//device//Android//data//net.sourceforge.opencamera to
+C:\tryToDownloadFTP\device\Android\data\net.sourceforge.opencamera
+Copying //device//Android//data//org.telegram.messenger...
+Can't copy: 
+//device//Android//data//org.telegram.messenger to
+C:\tryToDownloadFTP\device\Android\data\org.telegram.messenger
+Copying //device//Android//data//ru.dublgis.dgismobile...
+Can't copy: 
+//device//Android//data//ru.dublgis.dgismobile to
+C:\tryToDownloadFTP\device\Android\data\ru.dublgis.dgismobile
+Copying //device//Android//data//ru.kfc.kfc_delivery...
+Can't copy: 
+//device//Android//data//ru.kfc.kfc_delivery to
+C:\tryToDownloadFTP\device\Android\data\ru.kfc.kfc_delivery
+Copying //device//Android//data//ru.letobank.Prometheus...
+Can't copy: 
+//device//Android//data//ru.letobank.Prometheus to
+C:\tryToDownloadFTP\device\Android\data\ru.letobank.Prometheus
+Copying //device//Android//data//ru.mail.mailapp...
+Can't copy: 
+//device//Android//data//ru.mail.mailapp to
+C:\tryToDownloadFTP\device\Android\data\ru.mail.mailapp
+Copying //device//Android//data//ru.megafon.mlk...
+Can't copy: 
+//device//Android//data//ru.megafon.mlk to
+C:\tryToDownloadFTP\device\Android\data\ru.megafon.mlk
+Copying //device//Android//data//ru.yandex.taxi...
+Can't copy: 
+//device//Android//data//ru.yandex.taxi to
+C:\tryToDownloadFTP\device\Android\data\ru.yandex.taxi
+Copying //device//Android//data//ru.yandex.yandexbus...
+Can't copy: 
+//device//Android//data//ru.yandex.yandexbus to
+C:\tryToDownloadFTP\device\Android\data\ru.yandex.yandexbus
+Copying //device//Android//data//ru.yandex.yandexmaps...
+Can't copy: 
+//device//Android//data//ru.yandex.yandexmaps to
+C:\tryToDownloadFTP\device\Android\data\ru.yandex.yandexmaps
+Copying //device//Android//data//se.dirac.acs...
+Can't copy: 
+//device//Android//data//se.dirac.acs to
+C:\tryToDownloadFTP\device\Android\data\se.dirac.acs
+Copying //device//Android//media//com.viber.voip...
+Can't copy: 
+//device//Android//media//com.viber.voip to
+C:\tryToDownloadFTP\device\Android\media\com.viber.voip
+Copying //device//baidu//tempdata//conlts.dat...
+Copying //device//baidu//tempdata//lcvif.dat...
+Copying //device//baidu//tempdata//ls.db...
+Copying //device//baidu//tempdata//ls.db-journal...
+Copying //device//baidu//tempdata//wcnf.dat...
